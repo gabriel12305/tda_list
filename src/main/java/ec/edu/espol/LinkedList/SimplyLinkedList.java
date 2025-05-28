@@ -2,6 +2,7 @@
 package ec.edu.espol.LinkedList;
 import java.util.Iterator;
 // CHAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+//AAAAAAAA
 import ec.edu.espol.List;
 public class SimplyLinkedList<E> implements List<E> {
     
@@ -207,6 +208,7 @@ public class SimplyLinkedList<E> implements List<E> {
     public static void main(String[] args) {
         System.out.println("Milenaaaaaaaaa tienes que dormirrrrrrrrrrrrrrrr");
         System.out.println("DUERMEEEEEEEEEEEEEEEEEEEEEEEEEE");
-        System.out.println("HAZME CASO COMO SIEMPREEEEEEEEEEEEEEEEEEEEEE");
+        System.out.println("HAZME CASO COMO NUNCA");
+        System.out.println("MIELANA NO TE HARA CASO");
     }
 }
