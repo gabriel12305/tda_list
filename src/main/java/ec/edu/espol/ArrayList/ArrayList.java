@@ -8,6 +8,9 @@ public class ArrayList <E> implements List<E>{
     private int capacity=100;
     private int effectiveSize;
     //HOLA MILENA DEBERIA DORMIR
+    //HOLA MILENA TIENE MUCHO SUEÑO BECAUSE I DONT KNOW
+    //gabriel AVECES PERO AVECES RARA VEZ me cae mal
+
     @SuppressWarnings("unchecked")
     public ArrayList(){
         elements= (E[]) (new Object [capacity]);

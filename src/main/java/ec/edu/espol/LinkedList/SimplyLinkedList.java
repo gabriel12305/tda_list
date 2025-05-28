@@ -1,7 +1,7 @@
 
 package ec.edu.espol.LinkedList;
 import java.util.Iterator;
-// Holaaaaaaaaaaaaaaaaaaaaaaaaaa
+// CHAOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 import ec.edu.espol.List;
 public class SimplyLinkedList<E> implements List<E> {
     
