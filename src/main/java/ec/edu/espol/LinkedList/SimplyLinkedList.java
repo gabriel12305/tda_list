@@ -206,7 +206,7 @@ public class SimplyLinkedList<E> implements List<E> {
     }
 
     public static void main(String[] args) {
-        System.out.println("Milenaaaaaaaaa tienes que dormirrrrrrrrrrrrrrrr");
+        System.out.println("Milena tienes que dormir");
         System.out.println("DUERMEEEEEEEEEEEEEEEEEEEEEEEEEE");
         System.out.println("HAZME CASO COMO NUNCA");
         System.out.println("MIELANA SIEMPRE ME HARA CASO");
