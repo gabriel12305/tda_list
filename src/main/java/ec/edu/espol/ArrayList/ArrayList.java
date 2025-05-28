@@ -7,7 +7,7 @@ public class ArrayList <E> implements List<E>{
     private E[] elements;
     private int capacity=100;
     private int effectiveSize;
-
+    //HOLA MILENA TIENE MUCHO SUEÑO BECAUSE I DONT KNOW
     @SuppressWarnings("unchecked")
     public ArrayList(){
         elements= (E[]) (new Object [capacity]);
