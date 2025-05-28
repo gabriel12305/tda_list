@@ -13,7 +13,7 @@ public class ArrayList <E> implements List<E>{
         elements= (E[]) (new Object [capacity]);
         effectiveSize=0;
     }
-     
+     //HAY QUE COGERLE EL GOLPE A GIT O ME DARA TOCK
     @Override
     public boolean addFirst(E e) {//O(n)
         if(e==null){
